@@ -1,5 +1,5 @@
 +++
-title = "Getting_started"
+title = "Getting Started"
 date = 2019-08-27T07:16:47-07:00
 weight = 3
 chapter = true

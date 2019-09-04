@@ -1,12 +1,12 @@
 +++
 title = "Policy"
 date = 2019-09-02T22:00:44-07:00
-weight = 5
+weight = 7
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>3. </b>"
 +++
 
-### Chapter X
+### Chapter 3
 
 # Some Chapter title
 

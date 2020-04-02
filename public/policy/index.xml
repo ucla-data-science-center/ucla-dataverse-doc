@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policies on UCLA Dataverse Documentation</title>
+    <link>http://example.org/policy/</link>
+    <description>Recent content in Policies on UCLA Dataverse Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Sep 2019 22:00:44 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/policy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collection</title>
+      <link>http://example.org/policy/collection/</link>
+      <pubDate>Tue, 15 Oct 2019 12:39:54 -0700</pubDate>
+      
+      <guid>http://example.org/policy/collection/</guid>
+      <description>Collection Policy </description>
+    </item>
+    
+    <item>
+      <title>Pres</title>
+      <link>http://example.org/policy/pres/</link>
+      <pubDate>Tue, 15 Oct 2019 12:39:42 -0700</pubDate>
+      
+      <guid>http://example.org/policy/pres/</guid>
+      <description>Preservation Content  Scope: We allow all research objects created from research and educational projects at UCLA to be made publicly available, discoverable, linkable, and ultimately, reusable. Stage of research data: Data from any stage of the research lifecycle is accepted Eligibility: You are a faculty member, staff member, or student and have a UCLA Logon ID Rights: By uploading content, no change of ownership is implied and no property rights are transferred to the UCLA Library.</description>
+    </item>
+    
+    <item>
+      <title>Terms of Service</title>
+      <link>http://example.org/policy/terms/</link>
+      <pubDate>Wed, 04 Sep 2019 21:39:18 -0700</pubDate>
+      
+      <guid>http://example.org/policy/terms/</guid>
+      <description>Acceptance of Terms The following terms and conditions govern all use of the UCLA Dataverse website https://dataverse.ucla.edu (the &amp;ldquo;Site&amp;rdquo;) and the services available on or at the Site (taken together, the &amp;ldquo;Service&amp;rdquo;). The Service is owned and operated by The Data Science Center for The UCLA Library at the University of California at Los Angeles (&amp;ldquo;DSC&amp;rdquo;). The Service is offered subject to acceptance without modification of all of the terms and conditions contained herein (the &amp;ldquo;Terms of Use&amp;rdquo;) and all other operating rules, policies and procedures that may be published from time to time on this Site by DSC.</description>
+    </item>
+    
+  </channel>
+</rss>

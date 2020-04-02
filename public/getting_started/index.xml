@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on UCLA Dataverse Documentation</title>
+    <link>http://example.org/getting_started/</link>
+    <description>Recent content in Getting Started on UCLA Dataverse Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2019 07:16:47 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/getting_started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

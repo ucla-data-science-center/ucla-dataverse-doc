@@ -12,14 +12,14 @@ home = [ "HTML", "RSS", "JSON"]
 themeVariant="ucla"
 
 [[menu.shortcuts]]
-name = "UCLA Dataverse"
+name = "<i class='fab icon-dataverse text-dataverse'></i> UCLA Dataverse"
 url = "https://dataverse.ucla.edu/"
 weight = 9
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/ucla-data-archive/ucla-dataverse-doc"
 weight = 10
 
 [[menu.shortcuts]]
@@ -32,8 +32,3 @@ name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
-
-[[menu.shortcuts]]
-name = "<i class='fas fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30

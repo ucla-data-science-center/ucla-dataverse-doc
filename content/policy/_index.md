@@ -10,6 +10,6 @@ pre = "<b>3. </b>"
 
 # Policies
 
-These are the policies for UCLA Dataverse. NOTE: these policies are subject to change. 
+These are the policies for UCLA Dataverse. NOTE: these policies are subject to change.
 
-{{%children style="h2" description="false" %}}
+{{% children style="strong li" %}}

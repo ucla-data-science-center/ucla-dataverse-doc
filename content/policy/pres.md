@@ -1,10 +1,10 @@
 ---
-title: "Pres"
+title: "Preservation"
 date: 2019-10-15T12:39:42-07:00
 draft: false
 ---
 
-# Preservation 
+# Preservation
 
 Content
 -------
@@ -16,7 +16,7 @@ Content
 * Data file formats: All formats are allowed - even preservation unfriendly. Dataverse will convert certain tabular data formats (Stata, XLS, R, SPSS) into plane-text tab delimited files.
 * Volume and size limitations: Total files size limit per record is 50GB. Higher quotas can be requested and granted on a case-by-case basis.
 * Data quality: All information is provided **as-is**, and the user holds UCLA and information providers supplying data to UCLA free and harmless in connection with the use of such information.
-* Metadata types and sources: 
+* Metadata types and sources:
 * Licenses: Users must specify a license for all publicly available files. Licenses for closed access files may be specified in the description field.
 
 
@@ -33,7 +33,7 @@ What are the restrictions?
 
 * Deposits must contain unrestricted content with no private, confidential, or otherwise legally restricted information.  If applicable, data should be de-identified and anonymized.
 * The depositor should hold rights to the deposited data, or have permission of the owner to share it.
-* UCLA Dataverse repository adheres to the University of California [copyright and fair use policies](http://www.library.ucla.edu/support/publishing-data-management/scholarly-communication-resources-education/ucla-library-copyright-policy/uc-systemwide-copyright-policies) articulated by the Regents of UC. 
+* UCLA Dataverse repository adheres to the University of California [copyright and fair use policies](http://www.library.ucla.edu/support/publishing-data-management/scholarly-communication-resources-education/ucla-library-copyright-policy/uc-systemwide-copyright-policies) articulated by the Regents of UC.
 * Data files deposited in UCLA Dataverse must include descriptive metadata to facilitate discovery.
 * A long-term contact person who is familiar with the data must be designated at the time of deposit.
 * Data should be in their final state, and not subject to future revisions.
@@ -57,7 +57,7 @@ After you deposit
 ------------------
 
 * Each dataset will received a DOI that serves as a permanent link to that dataset.  In addition, UCLA Dataverse will register your descriptive metadata with the DataCite Metadata Store to enhance discoverability.
-* Data published in UCLA Dataverse are discoverable and openly available to anyone with access to the Internet.  
+* Data published in UCLA Dataverse are discoverable and openly available to anyone with access to the Internet.
 * In some specific cases, data may be withdrawn from UCLA Dataverse.  These include demonstrated copyright violation, violations of legal requirements, verified plagiarism, falsified research, and for reasons of National Security.  Withdrawn items are not deleted, but will be removed from public view. As appropriate, UCLA Dataverse will redirect DOI's for withdrawn items to "tombstone" sites which will contain details of the reason for the withdrawal, and provide links to replacement content if it is available.
 
 Preservation policy

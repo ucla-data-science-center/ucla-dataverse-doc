@@ -18,5 +18,10 @@ pre = "<b>1. </b>"
 ## Logging into Dataverse
 - Log in at https://dataverse.ucla.edu/
 - Click the “Log In” link in the navbar.
-- UCLA uses an Institutional Log-in. Choose “University of California, Los Angeles”
+![Dataverse Login screen](images/dataverse_login1b.jpg "Dataverse Login")
+- UCLA uses an Institutional Log-in. Choose “University of California, Los Angeles”  
+![Dataverse Login screen](images/dataverse_login2b.png "Dataverse Login")
 - Users will __not__ be using the account creation options since they should have a UCLA account before they are accessing our Dataverse.
+![Dataverse Login screen](images/dataverse_login3b.png "Dataverse Login")
+## Logging in the first time  
+- Check and edit account information

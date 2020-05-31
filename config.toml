@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "UCLA Dataverse Documentation"
 
-theme = "hugo-theme-learn"
+theme = "github.com/ucla-data-archive/hugo-theme-learn"
 
 # For search functionality
 [outputs]

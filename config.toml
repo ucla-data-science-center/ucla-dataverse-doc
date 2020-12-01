@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "UCLA Dataverse Documentation"
 
-theme = "github.com/ucla-data-archive/hugo-theme-learn"
+#theme = "github.com/ucla-data-archive/hugo-theme-learn"
 
 # For search functionality
 [outputs]
@@ -32,3 +32,7 @@ name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
+
+[module]
+  [[module.imports]]
+    path = "github.com/ucla-data-archive/hugo-theme-learn"

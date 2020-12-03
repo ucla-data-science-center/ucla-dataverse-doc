@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Collection</title>
+      <title>Collection Policy</title>
       <link>http://example.org/policy/collection/</link>
       <pubDate>Tue, 15 Oct 2019 12:39:54 -0700</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Pres</title>
+      <title>Preservation</title>
       <link>http://example.org/policy/pres/</link>
       <pubDate>Tue, 15 Oct 2019 12:39:42 -0700</pubDate>
       

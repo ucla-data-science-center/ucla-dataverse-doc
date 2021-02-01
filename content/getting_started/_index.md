@@ -10,9 +10,9 @@ pre = "<b>1. </b>"
 
 ## Account Creation  
 
-UCLA Dataverse is available UCLA affiliated researchers, faculty, staff and students.  
+- UCLA Dataverse is available UCLA affiliated researchers, faculty, staff and students.   
 
-You will need only:
+## You will need only:
 - A Shibboleth using a UCLA ID
 - See UCLA Identity and Accounts Manager:  https://accounts.iam.ucla.edu/#/
 - Contact DSC for assistance
@@ -29,5 +29,15 @@ When you are no longer affiliated with UCLA [fill in the answer here]
 ![Dataverse Login screen](images/dataverse_login2b.png "Dataverse Login")
 - Users will __not__ be using the account creation options since they should have a UCLA account before they are accessing our Dataverse.
 ![Dataverse Login screen](images/dataverse_login3b.png "Dataverse Login")
+
 ## Logging in the first time  
-- Check and edit account information  
+- To edit your account after you have logged in:  
+1. click on your account name in the header on the right hand side and click on Account Information.    
+2. On the top right of your account page, click on the “Edit Account” button and
+3. From there you can select to edit either your Account Information or your Account Password.  
+4. Select “Save Changes” when you are done.   
+
+
+
+## Creating Your Dataverse or Dataset: What's the Difference
+- line 1

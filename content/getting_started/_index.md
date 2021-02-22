@@ -39,11 +39,11 @@ pre = "<b>1. </b>"
 3. From there you can select to edit either your Account Information or your Account Password.  
 4. Select “Save Changes” when you are done.   
 
-
-
-### Creating Your Dataverse or Dataset: What's the Difference
-
 ### Resetting your Password
+
+
+## Chapter 2
+### Creating Your Dataverse or Dataset: What's the Difference
 
 ### Dataverse Management
 ![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")

@@ -6,22 +6,22 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Chapter 1
+## Chapter 1
 
 ## Account Creation  
 
 - UCLA Dataverse is available UCLA affiliated researchers, faculty, staff and students.   
 
-## You will need only:
+### You will need only:
 - A Shibboleth using a UCLA ID
 - See UCLA Identity and Accounts Manager:  https://accounts.iam.ucla.edu/#/
 - Contact DSC for assistance
 
-## What Happens When I Leave UCLA?
-When you are no longer affiliated with UCLA [fill in the answer here]
+### What Happens When I Leave UCLA?
+- When you are no longer affiliated with UCLA [fill in the answer here]
 
 
-## Logging into Dataverse
+### Logging into Dataverse
 - Log in at https://dataverse.ucla.edu/
 - Click the “Log In” link in the navbar.
 ![Dataverse Login screen](images/dataverse_login1b.jpg "Dataverse Login")
@@ -30,7 +30,7 @@ When you are no longer affiliated with UCLA [fill in the answer here]
 - Users will __not__ be using the account creation options since they should have a UCLA account before they are accessing our Dataverse.
 ![Dataverse Login screen](images/dataverse_login3b.png "Dataverse Login")
 
-## Logging in the first time  
+### Logging in the first time  
 - To edit your account after you have logged in:  
 1. click on your account name in the header on the right hand side and click on Account Information.    
 2. On the top right of your account page, click on the “Edit Account” button and
@@ -39,5 +39,13 @@ When you are no longer affiliated with UCLA [fill in the answer here]
 
 
 
-## Creating Your Dataverse or Dataset: What's the Difference
+### Creating Your Dataverse or Dataset: What's the Difference
 - line 1
+
+### Edit Your Account
+
+### Resetting your Password
+
+### Dataverse Management
+
+### Dataset and File Management

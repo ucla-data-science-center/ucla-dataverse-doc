@@ -32,20 +32,22 @@ pre = "<b>1. </b>"
 
 ### Logging in the first time  
 - To edit your account after you have logged in:  
-1. click on your account name in the header on the right hand side and click on Account Information.    
-2. On the top right of your account page, click on the “Edit Account” button and
+1. click on your account name in the header on the right hand side and click on Account Information. 
+![Account Information](images/account-info.png "Account Information")
+2. On the top right of your account page, click on the “Account” button and
+![Edit Account](images/dataverse_login4b.png "Edit Account")
 3. From there you can select to edit either your Account Information or your Account Password.  
 4. Select “Save Changes” when you are done.   
 
 
 
 ### Creating Your Dataverse or Dataset: What's the Difference
-- line 1
-
-### Edit Your Account
 
 ### Resetting your Password
 
 ### Dataverse Management
+![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")
 
 ### Dataset and File Management
+![Create a Dataset](images/new-dataset01.png "Create a Dataset")
+![Add files to Dataset](images/new-dataset03.png "Add files to Dataset")

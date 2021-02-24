@@ -31,16 +31,17 @@ pre = "<b>1. </b>"
 ![Dataverse Login screen](images/dataverse_login3b.png "Dataverse Login")
 
 ### Logging in the first time  
-- To edit your account after you have logged in:  
-1. click on your account name in the header on the right hand side and click on Account Information. 
-![Account Information](images/account-info.png "Account Information")
-2. On the top right of your account page, click on the “Account” button and
-![Edit Account](images/dataverse_login4b.png "Edit Account")
-3. From there you can select to edit either your Account Information or your Account Password.  
-4. Select “Save Changes” when you are done.   
+![Logging in the first time](images/account-info1.png "Logging in the first time")  
+1. Verify your email
+2. UCLA Dataverse accounts are institutional accounts. Account information cannot be edited when logged in through an institutional account.  Please contact UCLA Dataverse Support (https://dataverse.ucla.edu/dataverseuser.xhtml?selectTab=accountInfo#) for assistance.
 
-### Resetting your Password
+### Resetting your Password: UCLA Login
+- If you are using your **UCLA Login (email)** you will need to reset your password through the **UCLA IT Support Center**: <https://www.it.ucla.edu/iamucla/reset-password>
 
+### Resetting your Password: Other Accounts
+- For all other accounts: If you cannot remember this password, click on Log In in the top right corner of any page and click the “Forgot Password?” link below where you would enter your username/email and password. Enter your email address and click “Submit Password Request” to receive an email with a link to reset your password.  
+
+- Also, please note that if you have forgotten your username, you can use this same process to receive your username in an email.  
 
 ## Chapter 2
 ### Creating Your Dataverse or Dataset: What's the Difference

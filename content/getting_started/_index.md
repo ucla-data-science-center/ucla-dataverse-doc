@@ -49,6 +49,7 @@ pre = "<b>1. </b>"
 ### Dataverse Management
 ![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")
 
+## Chapter 3  
 ### Dataset and File Management
 ![Datasets Diagram](images/dataverse-DatasetDiagram.png "Datasets Diagram")
 

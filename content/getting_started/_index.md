@@ -56,7 +56,7 @@ Fill in the following fields on the “New Dataverse” page (required fields in
 - **Category:** Select a category that best describes the type of dataverse this will be. For example, if this is a dataverse for an individual researcher’s datasets, select Researcher. If this is a dataverse for an institution, select Organization or Institution.  
 - **Email:** This is the email address that will be used as the contact for this particular dataverse. You can have more than one contact email address for your dataverse.  
 - **Description:** Provide a description of this dataverse. This will display on the landing page of your dataverse and in the search result list.     **The description field supports certain HTML tags, if you’d like to format your text (\<a\>, \<b\>, \<blockquote\>,\<br\>, \<code\>, \<del\>, \<dd\>, \<dl\>, \<dt\>, \<em\>, \<hr\>, \<h1\>-\<h3\>, \<i\>, \<img\>, \<kbd\>, \<li\>, \<ol\>, \<p\>, \<pre\>, \<s\>, \<sup\>, \<sub\>, \<strong\>, \<strike\>, \<u\>, \<ul\>).  **   
--  **Also, this may have been corrected but avoid using *& (ampersand)*.**   
+- **Also, this may have been corrected but avoid using *& (ampersand)*.**   
 - For assistance with HTML coding please contact the Data Science center      
 
 ## Chapter 3  

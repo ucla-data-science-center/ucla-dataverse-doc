@@ -43,12 +43,14 @@ pre = "<b>1. </b>"
 
 - Also, please note that if you have forgotten your username, you can use this same process to receive your username in an email.  
 
-## Chapter 2
+## Chapter 2  
 ### Creating Your Dataverse or Dataset: What's the Difference
-
+![Dataverse Diagram](images/Dataverse-Diagram.png "Dataverse Diagram")
 ### Dataverse Management
 ![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")
 
 ### Dataset and File Management
+![Datasets Diagram](images/dataverse-DatasetDiagram.png "Datasets Diagram")
+
 ![Create a Dataset](images/new-dataset01.png "Create a Dataset")
 ![Add files to Dataset](images/new-dataset03.png "Add files to Dataset")

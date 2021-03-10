@@ -1,0 +1,30 @@
+body {
+    color: var(--MAIN-TEXT-color) !important;
+    text-align: left;
+}
+
+h2, h3, h4, h5 {
+    text-align: left;
+    color: var(--MAIN-TITLES-TEXT-color) !important;
+}
+
+a {
+    color: var(--MAIN-LINK-color);
+}
+
+.anchor {
+    color: var(--MAIN-ANCHOR-color);
+}
+
+a:hover {
+    color: var(--MAIN-LINK-HOVER-color);
+}
+#chapter p {
+    text-align: left;
+    font-size: 1.2rem;
+}
+#chapter h3 {
+    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", "sans-serif";
+    font-weight: 300;
+    text-align: left;
+}

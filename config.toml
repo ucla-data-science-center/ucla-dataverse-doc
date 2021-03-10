@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "UCLA Dataverse Documentation"
 
-theme = "hugo-theme-learn"
+theme = "hugo-theme-learn" 
 
 # For search functionality
 [outputs]
@@ -10,6 +10,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
 themeVariant="ucla"
+custom_css = ["static/css/dsc-content.css"]
 
 [[menu.shortcuts]]
 name = "<i class='fab icon-dataverse text-dataverse'></i> UCLA Dataverse"
@@ -32,3 +33,6 @@ name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
+
+# adding custom css for DSC
+custom_css = ["content/getting_started/css/dsc-custom.css  "]

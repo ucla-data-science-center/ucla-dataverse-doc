@@ -23,6 +23,21 @@ a:hover {
     text-align: left;
     font-size: 1.2rem;
 }
+#chapter {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    height: 100%;
+    padding: 2rem 0;
+}
+#chapter #body-inner {
+    padding-bottom: 3rem;
+    max-width: 80%;
+}
+#chapter p {
+    text-align: left;
+    font-size: 1.2rem;
+}
 #chapter h3 {
     font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", "sans-serif";
     font-weight: 300;

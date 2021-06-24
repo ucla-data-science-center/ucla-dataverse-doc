@@ -10,7 +10,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
 themeVariant="ucla"
-custom_css = ["static/css/dsc-content.css"]
+custom_css = ["static/css/theme-dsc-content.css"]
 
 [[menu.shortcuts]]
 name = "<i class='fab icon-dataverse text-dataverse'></i> UCLA Dataverse"

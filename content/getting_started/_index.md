@@ -65,3 +65,6 @@ Fill in the following fields on the “New Dataverse” page (required fields in
 
 ![Create a Dataset](images/new-dataset01.png "Create a Dataset")
 ![Add files to Dataset](images/new-dataset03.png "Add files to Dataset")
+
+## Chapter 4 
+### Geospatial Content

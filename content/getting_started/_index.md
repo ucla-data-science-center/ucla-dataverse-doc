@@ -66,5 +66,23 @@ Fill in the following fields on the “New Dataverse” page (required fields in
 ![Create a Dataset](images/new-dataset01.png "Create a Dataset")
 ![Add files to Dataset](images/new-dataset03.png "Add files to Dataset")
 
+### Licenses and Terms 
+Creative Commons Public Domain Dedication (CC0 or CC Zero) is the default 
+Other options: 
+- add list here 
+
+
 ## Chapter 4 
-### Geospatial Content
+### Geospatial Content 
+#### Metadata  
+
+- Geospatial Metadata display view:  
+![Geospatial Metadata Display View](images/geo_metadata_display.jpg "Geospatial Metadata Display View") 
+
+- Geospatial Metadata editing screen:  
+![Geospatial Metadata editing screen](images/geo_metadata_edit.jpg "Geospatial Metadata editing screen") 
+
+#### GeoBlacklight Ingest Requirements:  
+- Geospatial files should be a **WGS-84 projection**. 
+- If the original is not WGS-84 create a copy and add along with the original file. 
+- For assistane creating the WGS-84 projection contact the DSC.
